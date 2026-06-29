@@ -6,7 +6,7 @@ Busco desenvolver projetos onde eu possa aplicar **criatividade, design e flexib
 
 ### 🤔 Curiosidades
 
-🎨 - Me considero um artista, pinto quadros, desenho e sei fazer esculturas de argila <br>
+🎨 - Me considero um artista, pinto quadros, desenho e faço esculturas de argila <br>
 🧟 - Amo assistir series de terror e Sci-fi.  <br>
 🧙 - Gosto de estudar temas ligados a espiritualidade. <br>
 
