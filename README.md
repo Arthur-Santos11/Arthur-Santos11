@@ -1,7 +1,7 @@
 
 ### Olá, me chamo Arthur Carvalho! 👋
 
-Sou estudante de **Sistemas para Internet no SENAI**, com foco total no desenvolvimento web. 
+Sou estudante em **Tecnico de Informatica para Internet no SENAI**, com foco total no desenvolvimento web. 
 Busco desenvolver projetos onde eu possa aplicar **criatividade, design e flexibilidade** para criar experiências digitais incríveis.
 
 ### 🤔 Curiosidades
