@@ -9,11 +9,8 @@
 
 
 <br/>
-Tenho 20 anos e iniciei na área de desenvolvimento de softwares em back-end, utilizando o C# <br/>
-como linguagem principal nos meus projetos. Sempre tive uma fascinação pelas áreas exatas e meu <br/>
-sonho era me tornar astronauta, podendo atuar nas missões com os rovers e landers. <br/>
-Amo tecnologia e astronomia de forma geral.  :telescope::milky_way::computer:
-
+Olá, sou o Arthur
+Estudante de Sistemas para Internet no SENAI, focado no desenvolvimento web. Atualmente crio interfaces e aplicações utilizando JavaScript, HTML e CSS, com o objetivo de me especializar e atuar como Dev Full Stack JavaScript.<br/>
 
 ## Ferramentas
 
